@@ -1,1 +1,3 @@
-# hw4-music
+# Simple test of the music-synced GIF show
+
+
